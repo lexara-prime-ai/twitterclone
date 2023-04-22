@@ -61,7 +61,7 @@ const getPosts = async () => {
         <div class="user-credentials">
             <!-- USER AVATAR -->
             <div class="user-avatar-container">
-                <img src="/assets/images/avatar.jpg" alt="" class="avatar-post">
+                <img src="./assets/images/avatar.jpg" alt="" class="avatar-post">
 
                 <!-- UESR INFO -->
                 <div class="user-info-post">
