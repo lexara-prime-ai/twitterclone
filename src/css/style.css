@@ -74,7 +74,7 @@ header {
 
 /* PROFILE BANNER */
 .banner {
-    background: url(/assets/images/profile_banner_alt.jpg);
+    background: url(../assets/images/profile_banner_alt.jpg);
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center;
